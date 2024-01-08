@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+
+html{font-size:15px;}
+li{font-size:1em;}
+
+
+body{
+    background-color:rgb(252, 220, 199);
+}
+
+h1{
+    color:#9de22dce;
+    background-color:rgb(255, 254, 191);
+    margin:10px auto;
+    padding:20px ;
+    border:5px dashed  rgba(238, 208, 126, 0.877);
+    width:200px;
+    height:40px;
+    font-weight:bold;
+    font-size:200%;
+    text-align:center;
+    line-height:1.5;
+}
+h2{
+    color:#ffffffce;/*字體顏色*/
+    background-color:rgb(248, 191, 86);/*背景色*/
+    margin-bottom:20px;/*外側間距*/
+    padding:20px ;/*內側間距*/
+    border:5px dotted  rgba(155, 124, 38, 0.877);/*框線*/
+    border-left:15px solid #cab644;/*左側框線*/
+    width:200px;/*寬度*/
+    height:20px;/*高度*/
+    
+    font-size:200%;
+    text-align:center;
+    line-height:0.8; /*行高*/
+}
+/*section{
+border:1px dashed #ff0000;
+color:#606061;
+text-decoration: underline;
+text-align:center;
+}
+*/
